@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ejercicio de HTML de el equipo "Los Guayabos"</title>
+</head>
+<body>
+<h1>Bienvenid@ a la pagina web de el equipo Los guayabos</h1>
+<p>Equipo conformado por: Diego Hernandez, Cassandra Lafarga, Diego Paez</p>
+<p>En esta pagina podras conocer un poco más de nosotros y acerca de las cosas que nos gustan, en general para conocernos un poco más</p>
+<h2><center>Diego Hernandez Diaz</center></h2>
+<center><img src="imagenes/diego web.jpg" height="300"></center>
+<p>Mi nombre es Diego, naci el 25 de Diciembre del 2001. Actualmente <b><u>tengo 22 años</b></u> y estoy cursando el quinto semestre de la <b><u>Licenciatura en Negocios Internacionales</b></u>. Mis pasatiempos favoritos son pasar tiempo con mis amigos, escuchar musica y hacer/ver muchisimos deportes, en especial el <b><u>Futbol Americano</b></u></p>
+<p>Mi canción favorita se llama YO AK y es de un artista colombiano llamado Feid, si quieres escucharla da click a la imagen de la cancion y te llevara a un link donde puedas escucharla</p>
+<center><a href="https://www.youtube.com/watch?v=sflCsnRzI14"><img src="imagenes/Imagen YO.jpg" width="250" height="250"></a></center></p>
+</p><center><a href = "https://www.facebook.com/diego.halo.35">Clic aquí para ir a mi perfil de Facebook</a></center></p>
+<h3><center>Diego Yair Paez Roldan</center></h3>
+<center><img src="imagenes/paez web.jpg" height="300"></center>
+<p>Hola! Yo soy Diego Paez, <b><u>naci el 10 de Julio de 2003.</b></u> Soy una persona a la cual le gusta centrarse en si mimsmo, en el tiempo cercano tome la decision de centrarme en mi, y es así que <b><u>disfruto mucho ir al gimnasio.</b></u> Al igual que mi amigo Diego, disfruto mucho el <b><u>pasar tiempo con mis amigos y familia</b></u>, y mi comida favorita es sin duda la torta de pastor, me encanta.</p>
+<p>Mi canción favorita se llama La suburban Dorada y es de un grupo llamado Los huracanes del Norte, si quieres escucharla da click a la imagen de la cancion y te llevara a un link donde puedas escucharla</p>
+<center><a href="https://www.youtube.com/watch?v=Ypvs_tdX5YQ"><img src="imagenes/suburban web.jpg" width="250" height="250"></a></center></p>
+</p><center><a href = "https://www.facebook.com/paezroldan/about">Clic aquí para ir a mi perfil de Facebook</a></center></p>
+<h4><center>Cassandra Nicole Lafarga Lumbreras</center></h4>
+<center><img src="imagenes/cass web.jpg" height="300"></center>
+<p>Naci el primero de septiembre del dos mil dos, <b><u>me gusta ver series y peliculas, hacer ejercicio, y ordenar cosas, estudio negocios internacionales pero me apasiona todo lo que tiene que ver con ordenar y la decoracion de interiores</b></u>, mi color favorito es el <b><u>azul, rosa y el anaranjado</b></u>, soy de estatura media, me enojo con mucha facilidad, mis emociones son extremas, me gusta mucho mi nariz y mi cabello, disfruto mucho de comprar cosas, <b><u>estar y hacer felices a las personas que quiero</b></u></p>
+<p>Mi canción favorita se llama Two Fingers y es de un artista llamado Jake Bugg, si quieres escucharla da click a la imagen de la canción y te llevara a un link donde puedas escucharla</p>
+<center><a href="https://www.youtube.com/watch?v=J9XwFecNXyU"><img src="imagenes/bugg web.jpg" width="250" height="250"></a></center></p>
+</p><center><a href = "https://www.facebook.com/cassandra.lafarga">Clic aquí para ir a mi perfil de Facebook</a></center></p>
+</body>
+</html>
